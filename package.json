@@ -1,0 +1,25 @@
+{
+  "name": "binary-search-lab",
+  "version": "1.0.0",
+  "description": "binary search",
+  "main": "app/compare.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests/tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecj4real/Binary-Search-Lab.git"
+  },
+  "author": "Emegbue Chukwudi John",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ecj4real/Binary-Search-Lab.gi/issues"
+  },
+  "homepage": "https://github.com/ecj4real/Binary-Search-Lab.gi#readme",
+  "dependencies": {
+    "jasmine": "^2.5.2"
+  }
+}
